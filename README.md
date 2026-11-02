@@ -18,7 +18,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:114B36,100:176B45&height=210&section=header&text=Muzahidul%20Islam%20Utshab&fontSize=40&fontColor=F8FAFC&fontAlignY=35&desc=Mechanical%20%26%20Production%20Engineering%20%7C%20Research%20%7C%20Entrepreneurship&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Muzahidul Islam Utshab — Engineering, Research and Entrepreneurship" />
 
 <!-- ======================== ANIMATED TYPING HEADLINE ======================== -->
-<a href="https://github.com/muzahidulislamutshab">
+<a href="https://sites.google.com/view/muzahidul-islam-utshab">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=1000&color=176B45&center=true&vCenter=true&width=860&height=50&lines=Mechanical+%26+Production+Engineering+Undergraduate+%40+AUST;Published+Researcher+%7C+Biomedical+Textiles+%26+Bio-Composites;CEO+%40+Kitchen+Of+Tech+(KOT)+%7C+Founder+%40+Best+Tutor+Academy;CAD+Modelling+%7C+Structural+Analysis+%7C+Renewable+Energy+Simulation;Engineering+Bold+Ideas+into+Practical%2C+High-Impact+Outcomes" alt="Animated Headline: Engineering, Research & Entrepreneurship" />
 </a>
 
