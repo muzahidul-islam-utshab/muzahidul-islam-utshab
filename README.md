@@ -28,7 +28,7 @@
 <br />
 <strong>Currently studying at Ahsanullah University of Science and Technology (AUST)</strong>
 <br />
-<sub>🎓 B.Sc. in Mechanical and Production Engineering · Expected December 2026</sub>
+<sub>🎓 B.Sc. in Mechanical and Production Engineering ·</sub>
 
 <br /><br />
 
